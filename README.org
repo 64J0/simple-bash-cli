@@ -112,6 +112,10 @@ In the end I present my references for it.
 3. Check the help menu: ~./prune-git.sh -h~
 4. Use the script: ~./prune-git.sh -v -n master~
 
+* Org Tangle
+
++ ~C-c C-v t~
+
 * Reference
 
 + [[https://digitaldrummerj.me/git-remove-local-merged-branches/][Git - Remove Local Branches That Are Merged or No Longer Exist]]
