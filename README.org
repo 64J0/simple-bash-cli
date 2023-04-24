@@ -110,7 +110,7 @@ In the end I present my references for it.
 1. Clone the repository locally.
 2. ~chmod +x prune-git.sh~
 3. Check the help menu: ~./prune-git.sh -h~
-4. Use the script: ~./prune-git.sh -v -n master~
+4. Use the script: ~./prune-git.sh -v -b master~
 
 * Org Tangle
 
