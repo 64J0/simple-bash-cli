@@ -1,4 +1,4 @@
-#+title: Simple CLI
+#+title: Simple Bash CLI
 #+date: [2023-04-17 seg 15:12]
 #+author: 64J0
 
@@ -65,7 +65,7 @@ In the end I present my references for it.
 
   help () {
       # Display Help
-      echo "Clean your local branches, leaving only the main branch."
+      echo "Clean locally your merged branches, leaving only the main branch."
       echo
       echo "Syntax: script [-h|-b]"
       echo "options:"

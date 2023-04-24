@@ -9,7 +9,7 @@ set -eu
 
 help () {
     # Display Help
-    echo "Clean your local branches, leaving only the main branch."
+    echo "Clean locally your merged branches, leaving only the main branch."
     echo
     echo "Syntax: script [-h|-b]"
     echo "options:"
