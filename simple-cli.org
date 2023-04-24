@@ -4,7 +4,7 @@
 
 * Introduction
 
-This repository holds a simple CLI script.
+This repository holds a simple [[https://en.wikipedia.org/wiki/Command-line_interface][CLI]] script.
 
 The goal, is to provide a CLI wrapper for a simple shell script that deletes Git
 branches after they're merged to the main branch of some repository.
